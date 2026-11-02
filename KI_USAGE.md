@@ -2,8 +2,7 @@
 
 | Datum | Werkzeug | Zweck | Was wurde übernommen | Wie geprüft |
 |---|---|---|---|---|
-| Claude (Anthropic) | YAML-Vorlage des Dozenten auf U-Wert angepasst | `requirements/Team2_U-Wert.yaml` | mit unserer Anforderung verglichen |
-| Claude (Anthropic) | IDS-1.0-Datei zur YAML erstellt | `requirements/Team2_U-Wert.ids` | in IFC-Lite 5.3.1 geladen: «Document is valid», positiv bestanden, negativ durchgefallen |
+| 02.11.2026 | Claude | IDS Datei ertsellt mit unseren Anforderungen | in IFC-Lite 5.3.1 geladen: «Document is valid», positiv bestanden, negativ durchgefallen |
 | Claude (Anthropic) | Testmodelle aus dem Kursmodell abgeleitet | `models/*.ifc` | Änderung in `models/README.md` beschrieben |
 | Claude (Anthropic) | Grenzwert 0.17 gesucht | Quelle in `requirements/anforderung.md` | _bitte ergänzen_ |
 | Claude (Anthropic) | Textentwürfe README, Anforderung | Texte | _bitte ergänzen: von uns gelesen und angepasst_ |
