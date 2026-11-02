@@ -60,6 +60,8 @@ Das Ergebnis liegt in `results/ergebnis.csv`. Jede Zeile: GlobalId, Objekt, Ist-
 
 ## Team
 Wer hat was beigetragen? (Commits zeigen es, hier kurz zusammenfassen)
+| Person | Beitrag |
+|---|---|
 | Felix | zusammen gearbeitet|
 | Lilly| zusammen gearbeitet |
 
