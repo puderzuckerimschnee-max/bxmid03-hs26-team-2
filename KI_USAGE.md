@@ -2,8 +2,6 @@
 
 | Datum | Werkzeug | Zweck | Was wurde übernommen | Wie geprüft |
 |---|---|---|---|---|
-01.11.2026 | Claude (Anthropic) | Aufgabe MVP v0.1 verstehen, Aufbau des Repositorys planen | Ordnerstruktur und Gliederung README nach Vorlage des Dozenten | mit der Aufgabenstellung auf Moodle und den Folien vom 27.10. verglichen |
-| 01.11.2026 | Claude (Anthropic) | Grenzwert U-Wert suchen | 0.17 W/(m²K), Neubau, Wand gegen aussen, SIA 380/1:2016 (Quelle in `requirements/anforderung.md`) | Quelle (Kanton Thurgau) geöffnet; Norm selbst nicht nachgelesen |
 | 01.11.2026 | Claude (Anthropic) | Testmodelle erstellen | `models/Team2_Wand_U_ok.ifc` (aus dem Kursmodell `Demo_Holzrahmen_korrigiert.ifc`, U-Wert ergänzt) | in IFC-Lite 5.3.1 geöffnet, Wand und Eigenschaften sichtbar |
 | 01.11.2026 | Claude (Anthropic) | Klickpfad in IFC-Lite herausfinden | Anleitung im README unter «Ausführen» | selbst in IFC-Lite durchgeklickt |
 | 02.11.2026 | Claude (Anthropic) | YAML-Vorlage des Dozenten auf U-Wert anpassen | `requirements/Team2_U-Wert.yaml` | mit unserer Anforderung und dem Prozess vom 19.10. verglichen |
