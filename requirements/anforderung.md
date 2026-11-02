@@ -17,8 +17,4 @@
 
 Die Bauphysik prüft danach, ob der U-Wert den Grenzwert einhält:
 0.17 W/(m²K) für Wand, Dach und Boden gegen aussen bei Neubauten
-(Einzelbauteilnachweis, SIA 380/1, Ausgabe 2016). Quelle:
-Schulungsunterlagen «Neubau Wärmeschutz», Kanton Thurgau:
-<https://energie.tg.ch/public/upload/assets/145988/2._Schulungsunterlagen_Neubau_W%C3%A4rmeschutz.pdf>
-
-Nicht direkt in der Norm nachgelesen.
+(Einzelbauteilnachweis, SIA 380/1, Ausgabe 2016).
