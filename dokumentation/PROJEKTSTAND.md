@@ -161,7 +161,17 @@ Heizlast-Bezug (DIN EN 12831, wie in unserer Projektarbeit 2025): Φ_T der Ausse
 
 ---
 
-## 9. Änderungsprotokoll dieser Datei
+## 9. Wie läuft unser Modell bisher?
+
+1. Modell lesen        →  Welche Wände sind Aussenwände? Wie dick? Welche Materialien?
+2. Aufbau zuordnen     →  aufbau.csv: Dicke und λ pro Schicht
+3. U-Wert rechnen      →  U = 1 / (Rsi + Σ d/λ + Rse)
+4. Mit Grenzwert vergleichen  →  U ≤ 0.28?
+5. Ins Modell schreiben und mit IDS prüfen
+
+---
+
+## 10. Änderungsprotokoll dieser Datei
 
 | Datum | Wer | Was |
 |---|---|---|
