@@ -1,7 +1,7 @@
 # Projektstand Team 2 · U-Wert der Gebäudehülle
 
 BFH Minor BXMid03 «Data Management und BIM», HS 2026/27
-Stand: **03.11.2026** · bitte bei jeder grösseren Änderung nachführen
+Stand: **03.11.2026** · 
 
 Diese Datei beantwortet drei Fragen: **Wo stehen wir? Was liegt wo? Was ist noch offen?**
 
