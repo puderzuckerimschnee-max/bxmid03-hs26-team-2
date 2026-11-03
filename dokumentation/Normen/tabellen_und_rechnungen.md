@@ -96,18 +96,6 @@ Die Luftschicht der Cavity wall ist **keine** Annahme mehr: Nach DIN EN ISO 6946
 
 ---
 
-## D. Was in unserem PDF steht und was nicht
-
-| Norm | Inhalt | Im PDF? | Quelle |
-|---|---|---|---|
-| DIN EN 12831 | Tabellen NA.29, B.15, NA.2, NA.26, NA.27, B.14 und Formel Φ_T | ✅ ja | PDF |
-| DIN EN ISO 6946:2018-03 | Rsi, Rse, Luftschichten, Belüftung, U = 1 / R_tot | ❌ nein | Originalnorm ✓ |
-| DIN 4108-4:2020-11 | λ-Werte Kalksandstein, Ziegel, Putz, Dämmung | ❌ nein | Originalnorm ✓ |
-| DIN EN ISO 10456:2010-05 | λ Stahlbeton, Sperrholz, Holz, Marmor | ❌ nein | Originalnorm ✓ |
-| GEG | Grenzwert 0.28 | ❌ nein | Gesetzestext online ✓ |
-
----
-
 ## Quellen
 
 - DIN EN ISO 6946:2018-03, Bauteile, Wärmedurchlasswiderstand und Wärmedurchgangskoeffizient, Berechnungsverfahren (EN ISO 6946:2017). Beuth, über Zentrale Hochschulbibliothek Lübeck
