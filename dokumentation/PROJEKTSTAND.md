@@ -169,6 +169,15 @@ Heizlast-Bezug (DIN EN 12831, wie in unserer Projektarbeit 2025): Φ_T der Ausse
 4. Mit Grenzwert vergleichen  →  U ≤ 0.28?
 5. Ins Modell schreiben und mit IDS prüfen
 
+# Schritt 1: Was das Modell liefert
+| Was | Wo im IFC | Beispiel |
+|---|---|---|
+|Ist es eine Aussenwand?|Pset_WallCommon.IsExternal|TRUE bei 70 von 171 Wänden|
+|Wanddicke|BaseQuantities.Width (in mm, ×0.001 → m)|340 mm|
+|Materialien|Materialliste der Wand|Stone - limestone, Insulation - plastic hard, Air, Stone - brick|
+|Wandfläche|BaseQuantities.NetSideArea|in m²|
+
+
 ---
 
 ## 10. Änderungsprotokoll dieser Datei
