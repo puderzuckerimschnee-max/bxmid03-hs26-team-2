@@ -1,0 +1,15 @@
+ids:
+  ifcVersion: "IFC4"
+  title: "Aussenwände U-Wert"
+  author: "BXMid03 Team 2"
+  date: "2026-11-02"
+  rules:
+    - name: "IfcWall ThermalTransmittance"
+      # Zweck: Energienachweis für die Baueingabe · Meilenstein: Ende Phase 32
+      # Grenzwert Neubau Wand gegen aussen: U <= 0.17 W/(m2K), SIA 380/1:2016
+      # (Grenzwert prüft die Bauphysik, diese Regel prüft, ob der U-Wert geliefert ist)
+      entity: "IfcWall"
+      properties:
+        - name: "Pset_WallCommon.ThermalTransmittance"
+          datatype: "number"
+          presence: "required"
