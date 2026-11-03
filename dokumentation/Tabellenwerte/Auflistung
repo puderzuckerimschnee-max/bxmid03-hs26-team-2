@@ -1,1 +1,7 @@
+## Tabellen: DIN EN ISO 6946: U-Wert-Berechnung
+1. Wärmeübergangswiderstände: Rsi = 0.13, Rse = 0.04 m²K/W (horizontaler Wärmestrom = Wand)
+2. Wärmedurchlasswiderstand ruhender Luftschichten: 5 mm 0.11 · 7 mm 0.13 · 10 mm 0.15 · 15 mm 0.17 · ab 25 mm 0.18 m²K/W (R der Luftschichten)
+3. Abschnitt belüftete Luftschichten	: ruhend / schwach belüftet (halber Wert) / stark belüftet (äussere Schichten weglassen, Rse = Rsi)
+---
 
+## DIN 4108-4:2020-11: λ-Werte (Bemessungswerte)
