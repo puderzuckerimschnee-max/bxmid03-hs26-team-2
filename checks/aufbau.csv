@@ -1,0 +1,24 @@
+﻿Wandtyp;Nr;Schicht;Material_Annahme;d_m;lambda_W_mK;R_m2K_W;belueftet;Quelle;Status
+Cavity wall masonry-limestone;1;Stone - limestone;Kalksandstein, Rohdichte 1800 kg/m³;0.100;0.99;;;DIN 4108-4:2020-11 Tab. 1 Z. 4.2 (1800 kg/m³ → 0.99);Vorschlag
+Cavity wall masonry-limestone;2;Insulation - plastic hard;EPS-Hartschaum, λD 0.035 (Annahme);0.100;0.036;;;DIN 4108-4:2020-11 Tab. 2 Z. 5.2 und Fussnote a (λB = λD × 1.03 → 0.036);Vorschlag
+Cavity wall masonry-limestone;3;Air;ruhende Luftschicht 40 mm (zweischaliges Mauerwerk, offene Stossfugen gelten nicht als Lüftung: 6.9.2 Anmerkung);0.040;;0.18;;DIN EN ISO 6946:2018-03 Abschn. 6.9.2 und Tab. 8 (horizontal, ab 25 mm → 0.18);Vorschlag
+Cavity wall masonry-limestone;4;Stone - brick;Vormauerziegel/Klinker, Rohdichte 1800 kg/m³;0.100;0.81;;;DIN 4108-4:2020-11 Tab. 1 Z. 4.1.1 (1800 kg/m³ → 0.81);Vorschlag
+Limestone 100;1;Stone - limestone;Kalksandstein, Rohdichte 1800 kg/m³;0.100;0.99;;;DIN 4108-4:2020-11 Tab. 1 Z. 4.2 (1800 kg/m³ → 0.99);Vorschlag
+Timberframe internal wall - limestone;1;Stone - limestone;Kalksandstein, Rohdichte 1800 kg/m³;0.100;0.99;;;DIN 4108-4:2020-11 Tab. 1 Z. 4.2 (1800 kg/m³ → 0.99);Vorschlag
+Timberframe internal wall - limestone;2;Insulation - plastic hard;EPS-Hartschaum, λD 0.035 (Annahme);0.060;0.036;;;DIN 4108-4:2020-11 Tab. 2 Z. 5.2 und Fussnote a (λB = λD × 1.03 → 0.036);Vorschlag
+Timberframe internal wall - limestone;3;Membrane - water proof;Folie, Dicke vernachlässigbar;0.000;;0.00;;vernachlässigt (R ca. 0);Vorschlag
+Timberframe internal wall - limestone;4;Insulation - plastic soft;Mineralwolle, λD 0.035 (Annahme);0.140;0.036;;;DIN 4108-4:2020-11 Tab. 2 Z. 5.1 und Fussnote a (λB = λD × 1.03 → 0.036);Vorschlag
+Timberframe internal wall - limestone;5;Air;Hinterlüftung 40 mm;0.040;;;stark;DIN EN ISO 6946:2018-03 Abschn. 6.9.4 (stark belüftet: Schichten ab hier weglassen, Rse = Rsi);Vorschlag
+Timberframe internal wall - limestone;6;Facade carperntry - vertical;Holzschalung (wird nicht gerechnet);0.025;;;;vor Hinterlüftung, nicht gerechnet;Vorschlag
+Facade plating;1;Insulation - plastic hard;EPS-Hartschaum, λD 0.035 (Annahme);0.020;0.036;;;DIN 4108-4:2020-11 Tab. 2 Z. 5.2 und Fussnote a (λB = λD × 1.03 → 0.036);Vorschlag
+Facade plating;2;Air;Hinterlüftung 10 mm;0.010;;;stark;DIN EN ISO 6946:2018-03 Abschn. 6.9.4 (stark belüftet: Schichten ab hier weglassen, Rse = Rsi);Vorschlag
+Facade plating;3;Stone - Marble;Marmorplatte (wird nicht gerechnet);0.020;;;;vor Hinterlüftung, nicht gerechnet;Vorschlag
+Exterior wall, masonry + insulation 240mm;1;Insulation - plastic hard;EPS-Hartschaum, λD 0.035 (Annahme);0.100;0.036;;;DIN 4108-4:2020-11 Tab. 2 Z. 5.2 und Fussnote a (λB = λD × 1.03 → 0.036);Vorschlag
+Exterior wall, masonry + insulation 240mm;2;Air;ruhende Luftschicht 40 mm (Annahme: nicht belüftet);0.040;;0.18;;DIN EN ISO 6946:2018-03 Abschn. 6.9.2 und Tab. 8 (horizontal, ab 25 mm → 0.18);Vorschlag
+Exterior wall, masonry + insulation 240mm;3;Stone - brick;Vormauerziegel/Klinker, Rohdichte 1800 kg/m³;0.100;0.81;;;DIN 4108-4:2020-11 Tab. 1 Z. 4.1.1 (1800 kg/m³ → 0.81);Vorschlag
+pl-iso-hsb 10-38-140-12 200;1;Plaster inside;Gipsputz, Rohdichte 1000 kg/m³;0.010;0.34;;;DIN 4108-4:2020-11 Tab. 1 Z. 1.1.2 (1000 kg/m³ → 0.34);Vorschlag
+pl-iso-hsb 10-38-140-12 200;2;Insulation - plastic hard;EPS-Hartschaum, λD 0.035 (Annahme);0.038;0.036;;;DIN 4108-4:2020-11 Tab. 2 Z. 5.2 und Fussnote a (λB = λD × 1.03 → 0.036);Vorschlag
+pl-iso-hsb 10-38-140-12 200;3;Air;Ständerfeld 140 mm laut Modell ohne Dämmung, ruhend;0.140;;0.18;;DIN EN ISO 6946:2018-03 Abschn. 6.9.2 und Tab. 8 (horizontal, ab 25 mm → 0.18);Vorschlag
+pl-iso-hsb 10-38-140-12 200;4;Wood plywood;Sperrholz;0.012;0.13;;;DIN EN ISO 10456:2010-05 Tab. 3, Sperrholz 500 kg/m³ → 0.13;Vorschlag
+Stone - brick;1;Stone - brick;Vollziegel, Rohdichte 1800 kg/m³;0.100;0.81;;;DIN 4108-4:2020-11 Tab. 1 Z. 4.1.2 (1800 kg/m³ → 0.81);Vorschlag
+Reinforced concrete (LB);1;Reinforced concrete (LB);Stahlbeton;0.370;2.3;;;DIN EN ISO 10456:2010-05 Tab. 3, Beton armiert 1 % Stahl, 2300 kg/m³ → 2.3;Vorschlag
