@@ -1,0 +1,3 @@
+﻿Fall;Datei;GlobalId;Objekt;Ist-Wert;Soll-Wert;Einheit;Ergebnis;Grund
+positiv;Team2_Wand_U_ok.ifc;2ucZRLBGP4uxZW$9i1VAZ8;IfcWall Wall #1;0.15;vorhanden;W/(m²K);bestanden;
+negativ;Team2_Wand_ohne_U.ifc;2ucZRLBGP4uxZW$9i1VAZ8;IfcWall Wall #1;fehlt;vorhanden;W/(m²K);durchgefallen;Property Pset_WallCommon.ThermalTransmittance must exist (IFC-Lite 5.3.1)
